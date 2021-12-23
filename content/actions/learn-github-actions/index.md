@@ -42,7 +42,7 @@ children:
   - /contexts
   - /workflow-syntax-for-github-actions
   - /workflow-commands-for-github-actions
-  - /environment-variables
+  - /environment-gouti
   - /usage-limits-billing-and-administration
 ---
 
